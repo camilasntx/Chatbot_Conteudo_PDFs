@@ -1,0 +1,6 @@
+O Trabalho de Conclusão de Curso (TCC) é uma etapa crucial na formação em Engenharia de Software.
+A pesquisa para o TCC foca na correlação entre artigos científicos sobre arquitetura de microsserviços e a aplicação de métodos ágeis (Scrum).
+Descobriu-se que a adoção de CI/CD (Integração Contínua e Entrega Contínua) é fundamental para manter a velocidade e a qualidade em ambientes de microsserviços.
+Um dos artigos mais relevantes, "Design Patterns for Microservices", discute a importância de padrões de tolerância a falhas.
+A metodologia de pesquisa priorizou estudos de caso recentes publicados entre 2022 e 2024.
+A próxima fase do projeto envolve a criação de um protótipo de chatbot RAG para acelerar a revisão bibliográfica.
